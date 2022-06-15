@@ -1,0 +1,36 @@
+
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Lato, sans-serif;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color: #4f546c;
+  font-size: 0.9rem;
+  background:url(cream.png)
+}
+th{
+    background-color: #d0def2;
+    padding: 0.75rem 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-size: 0.7rem;
+    font-weight: 900;
+    border-spacing: 2px;
+    border: 3px solid rgb(70, 170, 140); 
+  }
+
+  td {
+    padding: 1rem 2rem;
+  }
+  tr:nth-child(even) {
+    background-color: #f3f8fe;
+    
+  }
+
+  

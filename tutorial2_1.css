@@ -1,0 +1,30 @@
+.corona1{
+  color: blue;
+  text-align: center;
+  font-size: 25px;
+  font-family: cursive;
+  font-weight: bold;
+  font-style: italic;
+
+}
+.main{
+  display: flex;
+
+}
+.para1{
+  color: rgb(62, 7, 114);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 20px;;
+}
+
+.covid{
+  font-size: 19px;
+  position: relative;
+  width: 50%;
+}
+.covid1{
+  font-size: 19px;
+  position: relative;
+  width: 100%;
+}
